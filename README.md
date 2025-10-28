@@ -20,16 +20,13 @@ By the end of the analysis, meaningful segments were obtained that can guide **t
 
 The repository is organized into modular components that guide you from exploration to modeling:
 
-1_EDA.ipynb — Performs initial exploration, descriptive analysis, and visualization to uncover relationships between variables.
-
-2_Model_Implementation_and_Interpretation.ipynb — Implements and interprets clustering models (Hierarchical & K-Means) to identify meaningful customer segments.
-
-Segmentation data legend.xlsx — Provides feature definitions, measurement units, and metadata.
-
-requirements.txt — Lists all dependencies exported from Poetry for reproducible environments.
-
-README.md — Documentation describing the project’s purpose, methodology, and results.
-
+- 1_EDA.ipynb — Performs initial exploration, descriptive analysis, and visualization to uncover relationships between variables.
+- 2_Model_Implementation_and_Interpretation.ipynb — Implements and interprets clustering models (Hierarchical & K-Means) to identify meaningful customer segments.
+- customer_segmentation_data.csv - Raw input file.
+- customer_segmentation_data_clean.csv - Input file after some preprocessing.
+- Segmentation data legend.xlsx — Provides feature definitions, measurement units, and metadata.
+- requirements.txt — Lists all dependencies exported from Poetry for reproducible environments.
+- README.md — Documentation describing the project’s purpose, methodology, and results.
 
 ---
 
